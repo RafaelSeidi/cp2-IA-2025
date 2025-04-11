@@ -19,6 +19,7 @@ A ideia é identificar morangos em tempo real utilizando a webcam, aplicando fil
 ---
 
 ## Como Executar
+0. NOTA: Como é um projeto Python é necessário ter o python instalado. Você pode instalar pelo seguinte link: https://www.python.org/downloads/
 
 1. Clone o projeto:
 ```bash
