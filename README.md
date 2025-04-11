@@ -2,7 +2,11 @@
 
 # Projeto: Detector de Morangos com Visão Computacional
 
-Este projeto utiliza visão computacional para detectar morangos maduros com base na sua coloração vermelha, auxiliando na automatização da colheita.
+Este projeto utiliza visão computacional para detectar morangos maduros com base na sua coloração vermelha, auxiliando na automatização da colheita. Feito pelo grupo:
+- Alex Vinícius Costa Da Silva - RM 96022
+- Gustavo Santos Conceição - RM 93039
+- Mateus Soares Rodrigues - RM 94155
+- Rafael Seidi Suzuki Tomita - RM 93511
 
 ## Objetivo
 
